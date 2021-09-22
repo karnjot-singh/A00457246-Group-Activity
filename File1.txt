@@ -1,0 +1,5 @@
+#A00456832
+
+Public int Multiplication (int a, int b) {
+return a*b;
+}
