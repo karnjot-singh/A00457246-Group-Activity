@@ -1,0 +1,6 @@
+#A00456832
+
+Public int Min_Math(int a, int b) {
+return Min- Math.max()
+;
+}
