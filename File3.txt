@@ -1,6 +1,22 @@
+
 #A00456832
 
 Public int Pow_Math(int a, int b) {
 return Pow – Math.Pow()
 ;
 }
+
+#A00457244
+
+Public int average ( int a, int b) {
+ return Math.avg(a,b);
+} 
+
+# A00457246
+
+public int max(int a, int b) {
+
+	return Math.max(a, b);
+
+}
+

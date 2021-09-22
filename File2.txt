@@ -1,6 +1,22 @@
+
 #A00456832
 
 Public int Min_Math(int a, int b) {
 return Min- Math.max()
 ;
 }
+
+#A00457244
+
+Public int mod ( int a, int b) {
+ return a%b;
+} 
+
+#A00457246
+
+public int division (int a, int b) {
+
+	return a/b;
+
+}
+
