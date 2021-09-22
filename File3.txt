@@ -3,3 +3,11 @@
 Public int average ( int a, int b) {
  return Math.avg(a,b);
 } 
+
+# A00457246
+
+public int max(int a, int b) {
+
+	return Math.max(a, b);
+
+}
